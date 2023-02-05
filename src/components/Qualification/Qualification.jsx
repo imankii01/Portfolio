@@ -1,7 +1,12 @@
-import React from "react";
-import "./qualification.css";
+import React,{useState} from "react";
+import "./qualification.css"; 
 
 const Qualification = () => {
+  const [toggleState,setToggleState]= useState(1);
+
+    const toggleTab = (index)=>{
+        setToggleState(index);
+    }
   return (
     <section className="qualification section">
       <h2 className="section__title">Qualifications</h2>
@@ -19,7 +24,7 @@ const Qualification = () => {
           </div>
         </div>
         <div className="qualification__sections">
-          <div className="qualification_content">
+          <div className="qualification_content qualification__conten-active">
            
            
            
@@ -52,6 +57,94 @@ const Qualification = () => {
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i> 2023- Present
                 </div>
+              </div>
+            </div>
+
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Web Development</h3>
+                <span className="qualification__subtitle">
+                  Indian - Institute
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i> 2023- Present
+                </div>
+              </div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
+            <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <h3 className="qualification__title"> UI Expert</h3>
+                <span className="qualification__subtitle">
+                  Indian - Institute
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i> 2021-2023
+                </div>
+              </div>
+            </div>
+          </div>
+
+           
+          <div className="qualification_content">
+           
+           
+           
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">product Designer</h3>
+                <span className="qualification__subtitle">
+                  MicroSoft - Institute
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i> 2023- Present
+                </div>
+              </div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
+            <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <h3 className="qualification__title"> UX Designer</h3>
+                <span className="qualification__subtitle">
+                  Indian - Institute
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i> 2023- Present
+                </div>
+              </div>
+            </div>
+
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Web Designer</h3>
+                <span className="qualification__subtitle">
+                  Figma - Institute
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i> 2023- Present
+                </div>
+              </div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
               </div>
             </div>
           </div>
