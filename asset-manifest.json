@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.1b2ad129.css",
-    "main.js": "/Portfolio/static/js/main.f2cdba89.js",
-    "static/js/787.9cb3e5b4.chunk.js": "/Portfolio/static/js/787.9cb3e5b4.chunk.js",
-    "static/media/Resume-Ankit-Prajapati.pdf": "/Portfolio/static/media/Resume-Ankit-Prajapati.23e6e2e3f7a9dbc5ab2d.pdf",
-    "static/media/Profile_ankit_main.jpg": "/Portfolio/static/media/Profile_ankit_main.ca40bff9d844a6b498ed.jpg",
-    "index.html": "/Portfolio/index.html",
-    "main.1b2ad129.css.map": "/Portfolio/static/css/main.1b2ad129.css.map",
-    "main.f2cdba89.js.map": "/Portfolio/static/js/main.f2cdba89.js.map",
-    "787.9cb3e5b4.chunk.js.map": "/Portfolio/static/js/787.9cb3e5b4.chunk.js.map"
+    "main.css": "/P.github.io/ankit-portfolio/static/css/main.e0083370.css",
+    "main.js": "/P.github.io/ankit-portfolio/static/js/main.5009dec0.js",
+    "static/js/787.9cb3e5b4.chunk.js": "/P.github.io/ankit-portfolio/static/js/787.9cb3e5b4.chunk.js",
+    "static/media/Resume-Ankit-Prajapati.pdf": "/P.github.io/ankit-portfolio/static/media/Resume-Ankit-Prajapati.23e6e2e3f7a9dbc5ab2d.pdf",
+    "static/media/Profile_ankit_main.jpg": "/P.github.io/ankit-portfolio/static/media/Profile_ankit_main.ca40bff9d844a6b498ed.jpg",
+    "index.html": "/P.github.io/ankit-portfolio/index.html",
+    "main.e0083370.css.map": "/P.github.io/ankit-portfolio/static/css/main.e0083370.css.map",
+    "main.5009dec0.js.map": "/P.github.io/ankit-portfolio/static/js/main.5009dec0.js.map",
+    "787.9cb3e5b4.chunk.js.map": "/P.github.io/ankit-portfolio/static/js/787.9cb3e5b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b2ad129.css",
-    "static/js/main.f2cdba89.js"
+    "static/css/main.e0083370.css",
+    "static/js/main.5009dec0.js"
   ]
 }
