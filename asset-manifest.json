@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/P.github.io/ankit-portfolio/static/css/main.e0083370.css",
-    "main.js": "/P.github.io/ankit-portfolio/static/js/main.5009dec0.js",
-    "static/js/787.9cb3e5b4.chunk.js": "/P.github.io/ankit-portfolio/static/js/787.9cb3e5b4.chunk.js",
-    "static/media/Resume-Ankit-Prajapati.pdf": "/P.github.io/ankit-portfolio/static/media/Resume-Ankit-Prajapati.23e6e2e3f7a9dbc5ab2d.pdf",
-    "static/media/Profile_ankit_main.jpg": "/P.github.io/ankit-portfolio/static/media/Profile_ankit_main.ca40bff9d844a6b498ed.jpg",
-    "index.html": "/P.github.io/ankit-portfolio/index.html",
-    "main.e0083370.css.map": "/P.github.io/ankit-portfolio/static/css/main.e0083370.css.map",
-    "main.5009dec0.js.map": "/P.github.io/ankit-portfolio/static/js/main.5009dec0.js.map",
-    "787.9cb3e5b4.chunk.js.map": "/P.github.io/ankit-portfolio/static/js/787.9cb3e5b4.chunk.js.map"
+    "main.css": "/github.io/ankit-portfolio/static/css/main.0fa0b7e2.css",
+    "main.js": "/github.io/ankit-portfolio/static/js/main.a78fa7c1.js",
+    "static/js/787.9cb3e5b4.chunk.js": "/github.io/ankit-portfolio/static/js/787.9cb3e5b4.chunk.js",
+    "static/media/Resume-Ankit-Prajapati.pdf": "/github.io/ankit-portfolio/static/media/Resume-Ankit-Prajapati.23e6e2e3f7a9dbc5ab2d.pdf",
+    "static/media/Profile_ankit_main.jpg": "/github.io/ankit-portfolio/static/media/Profile_ankit_main.ca40bff9d844a6b498ed.jpg",
+    "index.html": "/github.io/ankit-portfolio/index.html",
+    "main.0fa0b7e2.css.map": "/github.io/ankit-portfolio/static/css/main.0fa0b7e2.css.map",
+    "main.a78fa7c1.js.map": "/github.io/ankit-portfolio/static/js/main.a78fa7c1.js.map",
+    "787.9cb3e5b4.chunk.js.map": "/github.io/ankit-portfolio/static/js/787.9cb3e5b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0083370.css",
-    "static/js/main.5009dec0.js"
+    "static/css/main.0fa0b7e2.css",
+    "static/js/main.a78fa7c1.js"
   ]
 }
